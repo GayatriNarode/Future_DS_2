@@ -10,31 +10,31 @@ This project focuses on analyzing customer behavior to identify churn patterns a
 
 🎯 Objectives
 
-• Analyze customer churn trends
-• Identify key factors affecting churn
-• Compare retained vs churned customers
-• Provide insights for improving retention
+Analyze customer churn trends
+Identify key factors affecting churn
+Compare retained vs churned customers
+Provide insights for improving retention
 
 
 📂 Dataset Information
 
 The dataset includes the following features:
-• Customer ID
-• Gender
-• Subscription Type
-• Tenure
-• Payment Delay
-• Support Calls
-• Total Spend
-• Usage Frequency
-• Churn (Yes/No)
+Customer ID
+Gender
+Subscription Type
+Tenure
+Payment Delay
+Support Calls
+Total Spend
+Usage Frequency
+Churn (Yes/No)
 
 
 🛠️ Tools & Technologies
 
-• Power BI (Data Visualization)
-• Excel (Data Preparation)
-• DAX (Data Analysis Expressions)
+Power BI (Data Visualization)
+Excel (Data Preparation)
+DAX (Data Analysis Expressions)
 
 
 📊 Dashboard Features
